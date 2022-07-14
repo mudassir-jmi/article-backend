@@ -1,0 +1,26 @@
+In article-frontend folder all frontend file in react js
+
+1. main file = components/Article.js
+2. src = app.js 
+before run the file you have a run npm install command on terminal
+you can run frontend file type in terminal npm start
+
+//backend
+
+In article-backend all backend file in node js
+1. main file = controllers/User-controllers.js
+2. main file = model/User.js
+3. main file = routes/User-routes.js
+4. main file = app.js
+
+before run the file you have a run npm install command on terminal
+start backend project type in terminal npm start 
+
+// Navbar
+main file = src/components/Navbar.js
+main file = src/components/Navbar.css
+main file = app.js
+
+
+Created by @Raushan 🚀
+
